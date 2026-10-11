@@ -1,7 +1,12 @@
 {
   "addons": {
     "tf-mail-saver@local": {
-      "updates": []
+      "updates": [
+        {
+          "version": "3.34",
+          "update_link": "https://nguyentoanminh07-afk.github.io/tfa-updates/tf-auto-anken-v3_34-phat-hanh.xpi"
+        }
+      ]
     }
   }
 }
